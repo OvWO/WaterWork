@@ -1,0 +1,24 @@
+{
+  "name": "static-page",
+  "description": "none",
+  "main": "main file",
+  "authors": [
+    "ovwo <neneo_03@hotmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "modal"
+  ],
+  "homepage": "isk",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "laravel-bootstrap-modal-form": "jerseymilker/laravel-bootstrap-modal-form"
+  }
+}

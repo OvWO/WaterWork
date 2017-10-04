@@ -6,12 +6,12 @@
         <div class="full-bg-img flex-center">
             @if(auth()->check())
 
-            {{-- ========================= --}}
+            {{-- go down button --}}
             @else
 
             <ul class="animated fadeInUp">
                 <li>
-                    <h1 class="h1-responsive font-bold">To-Do App</h1></li>
+                    <h1 class="h1-responsive font-bold">WaterWork</h1></li>
                 <li> <p>Organize your tasks with this todolist app</p>
                 </li>
                 <li>

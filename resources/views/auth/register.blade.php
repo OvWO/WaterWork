@@ -72,7 +72,6 @@
                 </div>
             </div>
         </div>
-    </div>
 <button 
    type="button" 
    class="btn btn-primary btn-lg" 
@@ -81,7 +80,7 @@
   Add to Favorites
 </button>
 
-
+{{-- 
 <div class="modal fade" id="favoritesModal" 
      tabindex="-1" role="dialog" 
      aria-labelledby="favoritesModalLabel">
@@ -114,8 +113,7 @@
       </div>
     </div>
   </div>
-</div>
+</div> --}}
 
-</div>
 
 @endsection

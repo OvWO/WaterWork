@@ -15,15 +15,17 @@
 
 </head>
 <body>
-    @include('partials.header')
+    @include('partials.nav')
 
 {{--     <div class="container"> id="app"
         @yield('content')
     </div> --}}
 
+
 @yield('content')
 {{-- @include('partials.footer') --}}
 @include('layouts.scripts')
+
 
 </body>
 </html>
